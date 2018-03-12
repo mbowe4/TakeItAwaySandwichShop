@@ -6,6 +6,7 @@ package com.example.madelinebowe.takeitawaymobileordering;
 
 public class Stuff {
     String name;
+    String Zach;
 
     public String getName() {
         return name;
