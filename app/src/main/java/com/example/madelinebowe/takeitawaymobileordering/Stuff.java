@@ -5,7 +5,7 @@ package com.example.madelinebowe.takeitawaymobileordering;
  */
 
 public class Stuff {
-    String test;
+    Striging test;
 
     public Stuff() {
         this.test = "Hello world";
