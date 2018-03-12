@@ -5,17 +5,9 @@ package com.example.madelinebowe.takeitawaymobileordering;
  */
 
 public class Stuff {
-    String test;
+    String name;
 
-    public Stuff() {
-        this.test = "Hello world";
-    }
-
-    public String test() {
-        return "Hello, World";
-    }
-
-    public String anotherTest() {
-        return "Test";
+    public String getName() {
+        return name;
     }
 }
