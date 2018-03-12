@@ -14,4 +14,8 @@ public class Stuff {
     public String test() {
         return "Hello, World";
     }
+
+    public String anotherTest() {
+        return "Test";
+    }
 }
