@@ -5,4 +5,9 @@ package com.example.madelinebowe.takeitawaymobileordering;
  */
 
 public class Stuff {
+    String test;
+
+    public Stuff() {
+        this.test = "Hello world";
+    }
 }
