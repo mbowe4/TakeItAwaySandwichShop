@@ -10,4 +10,8 @@ public class Stuff {
     public Stuff() {
         this.test = "Hello world";
     }
+
+    public String test() {
+        return "Hello, World";
+    }
 }
