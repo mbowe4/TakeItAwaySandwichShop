@@ -1,11 +1,11 @@
 ## Take It Away Sandwich Shop Mobile Ordering Application
 ### Phase I: Menu & Order Functionality 
-* Create menu and surrounding logic
-* Set up database to store menu items
-* Functionality to allow customer to browse and interact with menu and view prices/options
+* Create Spring Boot application back-end to allow for mobile ordering
+* Set up database to store menu items using AWS
+* Add functionality to allow customer to browse and interact with menu and view prices/options
 
 ### Phase II: Maintenance Application
-* Create separate for business owner to maintain database with price / menu additions and alterations
+* Create separate platform for business owner to maintain database with price / menu additions and alterations
 
 ### Phase III: Fax Ordering
 * Add fax ordering capability so customers can order on the go
@@ -22,3 +22,5 @@
 
 ### Phase VI: Geofencing
 * Allow customer to place order and have notification sent to business to begin prepation once they enter a pre-defined distance away
+* Tools: Google's Geofencing API
+  * https://developers.google.com/location-context/geofencing/
